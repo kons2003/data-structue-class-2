@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75de4796-7832-4ebc-abe2-37bf75ac14ee" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2dOh291WtiFF4co44M90aezJcdP" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main_202214082.executor": "Run",
+    "Application.hw10_1.executor": "Run",
+    "Application.hw10_2.executor": "Run",
+    "Application.hw11_1.executor": "Run",
+    "Application.hw6_1.executor": "Run",
+    "Application.hw7_1.executor": "Run",
+    "Application.hw9_1.executor": "Run",
+    "Application.lab10_1.executor": "Run",
+    "Application.lab10_2.executor": "Run",
+    "Application.lab11_1.executor": "Run",
+    "Application.lab6_1.executor": "Run",
+    "Application.lab7_1.executor": "Run",
+    "Application.lab9_1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.import",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\Programing\DataStructure\src\lab" />
+      <recent name="C:\Users\User\Documents\Programing\DataStructure\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main_202214082">
+    <configuration name="Main_202214082" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_202214082" />
+      <module name="DataStructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw10_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw.hw10_2" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw11_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw.hw11_1" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab10_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.lab10_2" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab11_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.lab11_1" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main_202214082" />
+        <item itemvalue="Application.hw11_1" />
+        <item itemvalue="Application.lab11_1" />
+        <item itemvalue="Application.hw10_2" />
+        <item itemvalue="Application.lab10_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75de4796-7832-4ebc-abe2-37bf75ac14ee" name="Changes" comment="" />
+      <created>1709884824457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709884824457</updated>
+      <workItem from="1709884824683" duration="1094000" />
+      <workItem from="1709886066715" duration="1009000" />
+      <workItem from="1710490266235" duration="2025000" />
+      <workItem from="1711094390978" duration="2454000" />
+      <workItem from="1711269290121" duration="2271000" />
+      <workItem from="1712303348965" duration="2474000" />
+      <workItem from="1712306372376" duration="340000" />
+      <workItem from="1712539623906" duration="6657000" />
+      <workItem from="1712623225162" duration="5552000" />
+      <workItem from="1712631217674" duration="412000" />
+      <workItem from="1712799910626" duration="921000" />
+      <workItem from="1712806606624" duration="10676000" />
+      <workItem from="1712909197785" duration="2075000" />
+      <workItem from="1713083735291" duration="4943000" />
+      <workItem from="1715328693222" duration="2068000" />
+      <workItem from="1715359731091" duration="2294000" />
+      <workItem from="1715415508555" duration="1104000" />
+      <workItem from="1715933203628" duration="2306000" />
+      <workItem from="1716272090897" duration="3489000" />
+      <workItem from="1716311290577" duration="1362000" />
+      <workItem from="1716536067830" duration="3459000" />
+      <workItem from="1716769323810" duration="3750000" />
+      <workItem from="1717028773745" duration="13000" />
+      <workItem from="1717142674663" duration="2286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
